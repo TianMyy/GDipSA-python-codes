@@ -1,0 +1,17 @@
+Age,Has_job,Own_house,Outcome
+young,TRUE,TRUE,No
+young,TRUE,FALSE,Yes
+young,FALSE,TRUE,Yes
+young,FALSE,FALSE,No
+old,TRUE,TRUE,Yes
+old,TRUE,FALSE,No
+old,FALSE,TRUE,Yes
+old,FALSE,FALSE,Yes
+old,FALSE,FALSE,Yes
+old,FALSE,FALSE,Yes
+old,FALSE,FALSE,Yes
+old,FALSE,FALSE,Yes
+old,FALSE,FALSE,Yes
+old,FALSE,FALSE,Yes
+old,FALSE,FALSE,Yes
+old,FALSE,FALSE,Yes
