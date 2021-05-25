@@ -1,4 +1,4 @@
-# My_PythonCodes
+# GDipSA-python-codes
 Mainly about most codes I have written in GDipSA-51 courses.  
 
 ## Table of contents
