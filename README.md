@@ -1,5 +1,5 @@
 # GDipSA-python-codes
-Mainly about most codes I have written in GDipSA-51 courses.  
+Mainly about most codes based on Python I have written in GDipSA-51 courses.  
 
 ## Table of contents
 * [General info](#general-info)
